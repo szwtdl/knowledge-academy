@@ -4,4 +4,4 @@
 
 六大课程体系：财富与经济基础、企业经营与商业模式、组织管理与制度设计、人性与博弈论、社会结构与政治经济学、历史与制度比较。
 
-采用 Markdown 与 VitePress，无数据库。正式课程待定。
+采用 Markdown 与 VitePress，无数据库。系统教材持续更新。[在线学习](https://szwtdl.github.io/knowledge-academy/) · [课程总体纲要](docs/curriculum.md)。
