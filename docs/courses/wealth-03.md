@@ -142,4 +142,4 @@ description: 理解产权、使用权、控制权、收益权与责任，通过�
 
 延伸阅读：Ronald Coase, *The Problem of Social Cost*（1960）；Oliver Hart, *Firms, Contracts, and Financial Structure*（1995）；Elinor Ostrom, *Governing the Commons*（1990）；马克思《资本论》第一卷。以上是概念阅读线索，本文图表和案例均为原创教学内容，并非对著作的逐字引用。
 
-[上一课：价值与价格](./wealth-02) · [返回课程目录](./index)
+[上一课：价值与价格](./wealth-02) · [下一课：工资与议价](./wealth-04) · [返回课程目录](./index)
